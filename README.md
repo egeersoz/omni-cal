@@ -26,3 +26,6 @@ Both APIs require authentication. Meetup provides an API key that can simply be 
 
 More information on OmniAuth service accounts can be found [here](https://developers.google.com/identity/protocols/OAuth2ServiceAccount).
 
+## License
+
+This project uses the GPLv3 license.
